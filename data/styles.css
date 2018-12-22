@@ -67,6 +67,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .line {
 }
 .arrow {
@@ -83,6 +85,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .html_button {
   text-align:center;
 }
@@ -92,5 +97,12 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
